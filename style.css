@@ -1,0 +1,47 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+.container {
+    width: 1200px;
+    margin: auto;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1{
+    width: 20%;
+    margin: auto;
+}
+.box2{
+    width: 30%;
+    height:95%;
+    margin: auto;
+    border: none;
+    padding: 20px 20px;
+}
+.box3{
+    width: 30%;
+    height:95%;
+    margin: auto;
+    border: none;
+    padding: 20px 20px;
+}
+.box2 img{
+    width: 75%;
+    margin: 10px 60px 12px 35px;
+    padding: 5px 5px;
+}
+.box3 img{
+    width: 80%;
+    margin: 14px 60px 7px 30px;
+    padding: 12px 5px;
+}
+h4{
+    text-align: center;
+    font-style: italic;
+}
+p{
+    text-align: center;  
+}
